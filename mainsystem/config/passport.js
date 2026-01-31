@@ -10,7 +10,7 @@ const opts = {
         }
         return token;
     },
-    secretOrKey: process.env.JWT_SECRET,
+    secretOrKey: process.env.JWT_SECRET, 
 }
 const User = require('../models/userModel')
 
