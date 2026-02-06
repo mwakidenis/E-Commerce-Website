@@ -101,7 +101,7 @@ E-Commerce-Website/
 - Confirm payment status and send feedback to MainSystem.
 
 ## Feedback and Contact
-- For any issues or improvement ideas, please create an **Issue** on the repository or contact via email: `<ptnhanit230104@gmail.com>`.
+- For any issues or improvement ideas, please create an **Issue** on the repository or contact via email: `<mwakidenice@gmail.com>`.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
