@@ -105,3 +105,7 @@ E-Commerce-Website/
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/e-commerce-website)
