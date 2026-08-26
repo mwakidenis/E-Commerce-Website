@@ -25,7 +25,7 @@ exports.index = async (req, res, next) => {
 exports.addMoney = async (req, res, next) => {
     try {
         const { amount } = req.body;
-        if (!amount || amount <= 0) {
+        if (typeof amount !== 'number' || !amount || amount <= 0) {
             return res.status(400).send('Invalid amount.');
         }
         const userAccount = await payAccountService.findById(req.user._id);
