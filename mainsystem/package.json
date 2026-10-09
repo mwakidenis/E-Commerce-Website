@@ -27,7 +27,7 @@
     "joi": "^17.13.3",
     "jsonwebtoken": "9.0.2",
     "method-override": "^3.0.0",
-    "mongoose": "^8.8.4",
+    "mongoose": "^8.9.5",
     "multer": "^1.4.5-lts.1",
     "passport": "^0.7.0",
     "passport-facebook": "^3.0.0",
